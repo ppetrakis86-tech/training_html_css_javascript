@@ -1,6 +1,6 @@
 #This is a practice project for HTML CSS and JAVASCRIPT coding
 
-Here are your 40 exercises, grouped by topic, easy to hard:
+Here are 40 exercises, grouped by topic, easy to hard:
 
 ---
 
