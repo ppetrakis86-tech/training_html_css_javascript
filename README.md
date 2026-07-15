@@ -23,6 +23,8 @@ Folder /Html practice
 
 **CSS (10 exercises)**
 
+Folder /css practice 
+
 1. Change the background color and font color of a page.
 2. Style a heading with a custom font size, weight, and color.
 3. Add padding and margin to a div to control spacing.
